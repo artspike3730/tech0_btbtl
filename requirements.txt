@@ -1,0 +1,6 @@
+pandas==1.5.3
+streamlit==1.21.0
+matplotlib==3.7.1
+plotly==5.14.1
+yfinance==0.2.12
+mplfinance==0.12.9b7
